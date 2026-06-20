@@ -1,0 +1,39 @@
+# Keep this public-export repo text-only by default.
+
+# Local editor / OS noise
+.DS_Store
+Thumbs.db
+.obsidian/
+.playwright-mcp/
+
+# Do not publish source medical data or derived imaging.
+*.dcm
+*.dicom
+*.zip
+*.7z
+*.rar
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.pdf
+*.doc
+*.docx
+*.xlsx
+
+# Do not publish raw exports from portals, labs, or imaging viewers.
+raw/
+private/
+source/
+exports/
+converted_scan/
+ct_scan_dicom/
+review_assets/
+Logs/
+
+# Local automation output
+node_modules/
+.venv/
+__pycache__/
+
