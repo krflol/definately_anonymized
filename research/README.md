@@ -17,6 +17,10 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 | HPV ctDNA / TTMV-HPV DNA | Emerging clinical tool and clinical trials | Potential baseline/surveillance/risk-adaptation role. |
 | Deintensification | Trial or carefully selected use | Should be tumor-board or protocol driven. |
 
+## Physician Discussion
+
+- `physician-discussion-emerging-treatments.md` contains a pro/con matrix and line of questioning for each realistic emerging or recently approved option.
+
 ## Highest-Yield Missing Data
 
 - PET/CT and full staging.
@@ -26,4 +30,3 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 - Resectability.
 - Treatment intent.
 - Trial eligibility and referral path.
-
