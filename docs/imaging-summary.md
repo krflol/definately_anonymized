@@ -28,6 +28,12 @@ Excluded from this repo:
 - Raw scanner metadata.
 - Facility names and exact imaging dates.
 
+## Reproducible Local Tooling
+
+This repository includes a reusable DICOM CT processing tool at `tools/ct-dicom-processor/`. The tool can generate local PNG review images, contact sheets, and an anonymized manifest from a private DICOM folder.
+
+Generated images and manifests are ignored by Git. They should be used locally for review only unless separately de-identified and manually approved for publication.
+
 ## Questions For Care Team
 
 - What imaging is required for final staging?
@@ -36,4 +42,3 @@ Excluded from this repo:
 - Is dedicated chest imaging needed?
 - Are there additional suspicious lymph nodes?
 - Does imaging suggest a primary site, or is this still an occult-primary workup?
-

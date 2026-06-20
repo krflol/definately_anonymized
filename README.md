@@ -24,6 +24,7 @@ It is designed to preserve the decision trail, research notes, questions for cli
 
 - `docs/` - anonymized clinical summaries, timeline, oral-care notes, and lifestyle/treatment-readiness plan.
 - `research/` - diagnosis-specific research notes on immunotherapy, HPV vaccines/mRNA, CRISPR/cell therapy, HPV ctDNA, and trials.
+- `tools/` - reproducible local tooling, including a DICOM CT processor that keeps generated medical images out of Git.
 - `templates/` - reusable trackers for future updates without adding private identifiers.
 - `ANONYMIZATION.md` - rules used to remove or generalize identifying information.
 
@@ -47,4 +48,3 @@ It is designed to preserve the decision trail, research notes, questions for cli
 ## Source References
 
 Primary public sources used in the research notes include NCI, FDA, and ClinicalTrials.gov pages. See `research/source-log.md`.
-

@@ -27,13 +27,21 @@ raw/
 private/
 source/
 exports/
+local_data/
+processed/
+outputs/
 converted_scan/
 ct_scan_dicom/
 review_assets/
 Logs/
 
+# Tool-generated CT review outputs should stay local.
+tools/ct-dicom-processor/output/
+tools/ct-dicom-processor/processed/
+tools/ct-dicom-processor/local_data/
+manifest.anonymized.json
+
 # Local automation output
 node_modules/
 .venv/
 __pycache__/
-
