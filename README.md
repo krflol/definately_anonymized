@@ -27,6 +27,7 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - `docs/va-toxic-exposure-afff-pfas.md` - generalized VA toxic-exposure/AFFF-PFAS strategy without service identifiers.
 - `docs/plain-english-treatment-explainers.md` - patient-facing explanations of treatment categories in the research matrix.
 - `docs/glossary-head-neck-cancer.md` - searchable glossary of clinical and benefits-relevant terms.
+- `daily-action-plans/` - public-safe daily operating plans using relative dates.
 - `research/` - diagnosis-specific research notes on immunotherapy, HPV vaccines/mRNA, CRISPR/cell therapy, HPV ctDNA, and trials.
 - `tools/` - reproducible local tooling, including a DICOM CT processor that keeps generated medical images out of Git.
 - `templates/` - reusable trackers for future clinical, results, and benefits updates without adding private identifiers.
@@ -49,6 +50,7 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - Avoid exact dates, names, accession numbers, medical-record numbers, facility names, phone numbers, addresses, and raw report text.
 - Keep raw DICOMs, CT screenshots, pathology reports, portal screenshots, ZIP files, and clinician messages out of this repo.
 - Use relative timeline labels such as `Day -34`, `Day 0`, and `Day +2`.
+- Daily plans should use relative labels such as `Day +6`, not calendar dates.
 - Add new facts as summaries, not pasted medical-record blocks.
 - Keep military service history generalized; do not publish command, boat, hull, deployment, location, service-date, or witness details.
 

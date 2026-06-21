@@ -34,6 +34,7 @@ Exact dates are converted to relative labels:
 - `Day 0`: biopsy day / tissue obtained.
 - `Day +1`: tissue received or pathology processing event.
 - `Day +2`: final pathology signed and communicated.
+- `Day +6`: first full daily action plan after confirmed pathology and benefits planning.
 - Earlier imaging is listed as `Day -34` based on the internal project timeline, without publishing the calendar date.
 
 If future updates require more precision, use month/quarter labels only if the privacy benefit is worth the clinical context tradeoff.
