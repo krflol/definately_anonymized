@@ -23,9 +23,13 @@ It is designed to preserve the decision trail, research notes, questions for cli
 ## Repository Structure
 
 - `docs/` - anonymized clinical summaries, timeline, oral-care notes, and lifestyle/treatment-readiness plan.
+- `docs/benefits-financial-assistance.md` - public-safe benefits, leave, SSDI/SSI, VA, and assistance planning.
+- `docs/va-toxic-exposure-afff-pfas.md` - generalized VA toxic-exposure/AFFF-PFAS strategy without service identifiers.
+- `docs/plain-english-treatment-explainers.md` - patient-facing explanations of treatment categories in the research matrix.
+- `docs/glossary-head-neck-cancer.md` - searchable glossary of clinical and benefits-relevant terms.
 - `research/` - diagnosis-specific research notes on immunotherapy, HPV vaccines/mRNA, CRISPR/cell therapy, HPV ctDNA, and trials.
 - `tools/` - reproducible local tooling, including a DICOM CT processor that keeps generated medical images out of Git.
-- `templates/` - reusable trackers for future updates without adding private identifiers.
+- `templates/` - reusable trackers for future clinical, results, and benefits updates without adding private identifiers.
 - `ANONYMIZATION.md` - rules used to remove or generalize identifying information.
 
 ## Key Open Clinical Questions
@@ -37,6 +41,8 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - Should PD-L1 CPS be run on the biopsy specimen?
 - Is treatment expected to be surgery-based, radiation/chemoradiation-based, or trial-based?
 - Are there trial options worth screening before standard treatment begins?
+- Which benefits/work-leave/VA claim tracks should be started before treatment creates income or insurance disruption?
+- Does generalized submarine AFFF/PFAS exposure support a VA direct service-connection / TERA theory, separate from any PACT Act covered-location presumption?
 
 ## Public-Record Guardrails
 
@@ -44,6 +50,7 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - Keep raw DICOMs, CT screenshots, pathology reports, portal screenshots, ZIP files, and clinician messages out of this repo.
 - Use relative timeline labels such as `Day -34`, `Day 0`, and `Day +2`.
 - Add new facts as summaries, not pasted medical-record blocks.
+- Keep military service history generalized; do not publish command, boat, hull, deployment, location, service-date, or witness details.
 
 ## Source References
 

@@ -8,5 +8,4 @@ Exact dates are intentionally omitted.
 | Day 0 | Ultrasound-guided core needle biopsy | Biopsy of patient-right cervical-chain lymph-node conglomerate performed. Tissue sent for surgical pathology and flow cytometry. | Await pathology. |
 | Day +1 | Pathology processing | Tissue logged by pathology. | Await verified diagnosis. |
 | Day +2 | Final pathology signed | Metastatic squamous cell carcinoma, moderate to poorly differentiated; CK5 positive; p16 block positive; flow cytometry without significant lymphoid abnormality. | ENT/head-and-neck oncology staging, primary-site identification, and treatment planning. |
-| Current | Research and readiness phase | Patient-maintained notes created for emerging treatment research, lifestyle support, oral care, and clinical questions. | Update after PET/CT, oncology visit, primary-site workup, HPV testing, PD-L1 CPS, and tumor-board plan. |
-
+| Current | Research and readiness phase | Patient-maintained notes created for emerging treatment research, lifestyle support, oral care, glossary, benefits planning, and clinical questions. | Update after PET/CT, oncology visit, primary-site workup, HPV testing, PD-L1 CPS, tumor-board plan, work-status changes, and VA/SSA claim milestones. |

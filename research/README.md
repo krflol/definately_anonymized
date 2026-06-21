@@ -20,6 +20,8 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 ## Physician Discussion
 
 - `physician-discussion-emerging-treatments.md` contains a pro/con matrix and line of questioning for each realistic emerging or recently approved option.
+- `../docs/plain-english-treatment-explainers.md` contains patient-facing explanations of the same categories.
+- `../docs/glossary-head-neck-cancer.md` defines recurring clinical terms used across the notes.
 
 ## Highest-Yield Missing Data
 

@@ -48,3 +48,13 @@ Research areas most relevant to this profile:
 - HPV circulating tumor DNA monitoring.
 - Deintensification research for HPV-positive oropharyngeal cancer, only in carefully selected or trial settings.
 
+## Benefits / Readiness Context
+
+The public record now also tracks financial-readiness work:
+
+- SSA disability evidence collection if cancer or treatment prevents substantial work.
+- VA disability-compensation screening, including generalized submarine AFFF/PFAS exposure as a possible direct service-connection / toxic-exposure theory.
+- Employer leave and disability-insurance questions.
+- Travel, lodging, copay, food, utility, and nonprofit-assistance planning.
+
+No public version should include exact service dates, command, boat, hull, deployment location, facility, clinician, accession, or raw report identifiers.
