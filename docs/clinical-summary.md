@@ -25,8 +25,11 @@ The flow cytometry result makes lymphoma less likely as the explanation for the 
 - Complete head-and-neck oncology/ENT staging.
 - PET/CT or other staging imaging as directed by oncology.
 - Primary-site workup, potentially including scope exam, exam under anesthesia, tonsil/base-of-tongue evaluation, and directed biopsies if needed.
+- Confirm formal diagnosis lane: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck/skin source.
+- Capture cT, cN, cM, AJCC 8 stage if oropharyngeal, node size/laterality, and extranodal-extension suspicion.
 - Determine whether additional HPV DNA/RNA or genotype testing is needed.
 - Ask whether PD-L1 CPS should be tested.
+- Ask whether baseline HPV ctDNA / TTMV-HPV DNA should be drawn before treatment starts.
 - Tumor-board review if available.
 - Baseline dental, speech/swallow, nutrition, audiology, and fertility discussions before treatment when relevant.
 

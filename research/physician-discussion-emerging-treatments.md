@@ -9,6 +9,8 @@
 - Most likely frame until proven otherwise: HPV-mediated oropharyngeal SCC presenting as a neck node, or metastatic squamous neck cancer with occult primary.
 - Missing gating data: primary site, final stage, PET/CT or staging imaging, HPV DNA/RNA or genotype, PD-L1 CPS, resectability, smoking risk category, performance status, and treatment intent.
 
+Outside-review synthesis: the first task is to determine diagnosis and treatment lane, not to find more experimental options. Ask whether this is HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary; then confirm cT/cN/cM, AJCC 8 stage, node details, HPV-specific testing/genotype, PD-L1 CPS, and whether treatment is surgery-based or definitive chemoradiation-based.
+
 ## How To Frame This With A Physician
 
 Use this sentence if an option is brushed off too quickly:
@@ -211,16 +213,16 @@ Questions:
 
 ## Highest-Value Questions For The Next Oncology Visit
 
-1. What is the likely primary site, and what is still needed to confirm it?
-2. What is the current clinical stage and what staging data are missing?
-3. Is the plan likely surgery-based or definitive chemoradiation-based?
-4. Can PD-L1 CPS be ordered now?
-5. Can HPV DNA/RNA or genotype be ordered now, especially HPV16?
-6. If surgery is likely and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply?
+1. What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
+2. What are cT, cN, cM, AJCC 8 stage, node size, laterality, and extranodal-extension suspicion?
+3. Has high-risk HPV DNA/RNA testing and genotype been ordered, or only p16?
+4. Is PD-L1 CPS being ordered, and would the result change anything in the curative-intent plan?
+5. Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
+6. If surgery is likely and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply to this exact case?
 7. If definitive chemoradiation is likely, what is the standard regimen and why?
 8. Is cisplatin likely, and is the patient eligible for it?
-9. Should HPV ctDNA be drawn before treatment as a baseline?
-10. Are any clinical trials appropriate before treatment begins, or should trial search repeat after staging?
+9. Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment as a baseline?
+10. Are any newly diagnosed HPV-associated OPSCC trials appropriate before treatment begins, without delaying curative care?
 11. Will the case go to head-and-neck tumor board?
 12. If an option is not appropriate, which exact criterion rules it out?
 

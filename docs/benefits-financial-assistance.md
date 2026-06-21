@@ -38,6 +38,8 @@ For head-and-neck cancer, SSA Blue Book Listing 13.02 may be relevant if records
 
 Compassionate Allowance should not be assumed from a regional neck node alone. The relevant SSA head-and-neck cancer Compassionate Allowance language focuses on distant metastasis or inoperable/unresectable disease.
 
+SSA's unknown-primary listing should also not be assumed from a neck-node presentation alone. SSA specifically excludes squamous cell carcinoma confined to neck nodes from that route. The stronger Social Security theories may depend on head-and-neck cancer listing criteria, documented distant metastasis, inoperable/unresectable disease, qualifying multimodal anticancer therapy, or treatment-related functional limitations.
+
 ## VA And Veteran-Specific Track
 
 VA disability compensation is distinct from SSA. A VA rating does not automatically grant SSDI, and SSDI does not automatically create a VA rating.
@@ -75,4 +77,3 @@ Current VA posture:
 - Does service history qualify for any PACT Act presumption independent of AFFF/PFAS?
 - Should the VA claim include AFFF/PFAS, submarine occupational exposures, radiation-monitoring records if any, asbestos, solvents, or shipyard exposures?
 - What can be filed now, and what should be supplemented after PET/CT, oncology plan, and primary-site workup?
-

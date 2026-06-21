@@ -26,8 +26,13 @@ Contact the care team and ask:
 - [ ] Is PET/CT or other staging imaging ordered?
 - [ ] Is the case being reviewed by a head-and-neck tumor board?
 - [ ] What is the primary-site workup plan?
+- [ ] What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
+- [ ] What are cT, cN, cM, AJCC 8 stage if oropharyngeal, node size/laterality, and extranodal-extension suspicion?
 - [ ] Should PD-L1 CPS be ordered now?
 - [ ] Should HPV DNA/RNA or genotype testing be ordered beyond p16?
+- [ ] Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
+- [ ] Does perioperative pembrolizumab apply only if the exact surgery-based/resectable/PD-L1 CPS criteria fit?
+- [ ] Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment starts?
 - [ ] Should dental clearance, speech/swallow, nutrition, audiology, or fertility preservation be started before treatment?
 - [ ] Can oncology social work help with benefits, travel, lodging, work paperwork, financial hardship, and local assistance?
 
@@ -139,4 +144,3 @@ If capacity is limited:
 - New symptoms/red flags:
 - New private deadlines:
 - Public-safe durable-record candidate:
-

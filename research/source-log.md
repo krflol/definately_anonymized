@@ -8,6 +8,7 @@ Last public-source review: export-time public-source check. Recheck before clini
 - NCI Metastatic Squamous Neck Cancer With Occult Primary PDQ. https://www.cancer.gov/types/head-and-neck/patient/adult/metastatic-squamous-neck-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, patient version. https://www.cancer.gov/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, health professional version. https://www.cancer.gov/types/head-and-neck/hp/adult/oropharyngeal-treatment-pdq
+- CAP HPV testing guideline update page. https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/human-papillomavirus-testing-in-head-and-neck-carcinomas
 
 ## Immunotherapy
 
@@ -42,6 +43,7 @@ Last public-source review: export-time public-source check. Recheck before clini
 - RTOG 1016: radiotherapy plus cetuximab versus cisplatin in HPV-positive oropharyngeal cancer. https://pubmed.ncbi.nlm.nih.gov/30449625/
 - De-ESCALaTE HPV: cisplatin versus cetuximab with radiotherapy in HPV-positive low-risk oropharyngeal cancer. https://pubmed.ncbi.nlm.nih.gov/30449623/
 - ClinicalTrials.gov `NCT03952585`, NRG-HN005. https://clinicaltrials.gov/study/NCT03952585
+- ASCO Post NRG-HN005 report. https://ascopost.com/issues/november-10-2024/deintensified-treatment-regimens-fail-to-match-standard-chemoradiation-in-hpv-positive-oropharyngeal-cancer/
 
 ## Oral Care
 

@@ -25,6 +25,7 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 
 ## Highest-Yield Missing Data
 
+- Formal diagnosis lane: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck/skin source.
 - PET/CT and full staging.
 - Primary-site identification.
 - HPV DNA/RNA and genotype, if ordered.
@@ -32,3 +33,5 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 - Resectability.
 - Treatment intent.
 - Trial eligibility and referral path.
+
+Outside-review synthesis emphasized that classification and staging facts should outrank additional emerging-treatment research until the treatment lane is clear.
