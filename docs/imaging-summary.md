@@ -10,13 +10,16 @@ This is an anonymized summary of the private CT review work. No DICOM files, scr
 - The clinically relevant abnormality was on the patient-right side, matching the biopsy site.
 - Earlier metadata reportedly described the side incorrectly; this public record preserves only the clinically confirmed patient-right laterality.
 - The CT was not a complete staging study.
+- Initial PET/CT staging has since been summarized in the private vault. No raw report text or exact imaging date is published here.
 
 ## Interpretable Clinical Takeaways
 
 - The visible patient-right neck/cervical-chain abnormality aligns with the later biopsy-proven malignant lymph-node disease.
-- Full staging requires clinician-ordered imaging and formal radiology interpretation.
-- PET/CT and/or contrast CT/MRI neck may be needed depending on oncology/ENT plan.
-- Chest imaging is important because a neck CT does not fully evaluate lungs or distant disease.
+- PET/CT identified avid patient-right neck nodal disease.
+- PET/CT showed tonsillar/oropharyngeal uptake, with right tonsil/oropharynx a suspected primary site, but bilateral tonsillar uptake may require clinical correlation before treating PET alone as definitive primary-site proof.
+- PET/CT did not report suspicious FDG uptake in chest, abdomen, pelvis, or bone.
+- The current imaging frame is therefore provisional local-regional / `M0`, pending clinician-confirmed staging and primary-site workup.
+- Contrast CT/MRI neck or directed ENT evaluation may still be needed depending on oncology/ENT/radiation plan.
 
 ## Public Repo Exclusions
 
@@ -37,8 +40,9 @@ Generated images and manifests are ignored by Git. They should be used locally f
 ## Questions For Care Team
 
 - What imaging is required for final staging?
-- Is PET/CT ordered?
+- Does the care team accept the PET/CT as confirming `M0`?
+- Does the tonsillar/oropharyngeal uptake identify a primary site, or is further ENT evaluation/biopsy needed?
+- Does left-sided tonsillar uptake appear physiologic, inflammatory, synchronous disease, or clinically irrelevant?
 - Is contrast MRI or contrast CT neck needed?
-- Is dedicated chest imaging needed?
 - Are there additional suspicious lymph nodes?
 - Does imaging suggest a primary site, or is this still an occult-primary workup?

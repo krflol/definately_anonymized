@@ -12,6 +12,8 @@ Key pathology features:
 
 The current working frame is metastatic squamous cell carcinoma in a right cervical lymph node, with HPV-mediated oropharyngeal squamous cell carcinoma as a leading possibility. The primary site and complete stage remain unresolved.
 
+Initial PET/CT staging now supports a provisional `M0` / local-regional frame: the report identified avid right neck nodal disease and tonsillar/oropharyngeal uptake requiring clinical correlation, but did not report suspicious chest, abdomen, pelvis, or bone uptake. The exact TNM notation and stage grouping still need confirmation because HPV-mediated oropharyngeal staging differs from conventional/p16-negative staging.
+
 ## Plain-Language Meaning
 
 The biopsy confirmed squamous cell carcinoma in a right neck lymph node. Because it is in a lymph node, the word `metastatic` means it likely spread from a primary tumor somewhere else. It does not, by itself, prove distant metastatic disease.
@@ -23,15 +25,17 @@ The flow cytometry result makes lymphoma less likely as the explanation for the 
 ## Highest-Priority Next Steps
 
 - Complete head-and-neck oncology/ENT staging.
-- PET/CT or other staging imaging as directed by oncology.
+- PET/CT has supported no distant disease on the initial scan; confirm whether any additional contrast neck imaging, MRI, or chest imaging is still needed.
 - Primary-site workup, potentially including scope exam, exam under anesthesia, tonsil/base-of-tongue evaluation, and directed biopsies if needed.
 - Confirm formal diagnosis lane: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck/skin source.
 - Capture cT, cN, cM, AJCC 8 stage if oropharyngeal, node size/laterality, and extranodal-extension suspicion.
+- Confirm final `M0` status and whether PET/CT alone is sufficient for the team's staging decision.
 - Determine whether additional HPV DNA/RNA or genotype testing is needed.
 - Ask whether PD-L1 CPS should be tested.
 - Ask whether baseline HPV ctDNA / TTMV-HPV DNA should be drawn before treatment starts.
 - Tumor-board review if available.
 - Baseline dental, speech/swallow, nutrition, audiology, and fertility discussions before treatment when relevant.
+- Feeding-tube strategy: radiation oncology discussed prophylactic tube as optional rather than clearly medically necessary at that moment; maintain a reactive-tube contingency plan with nutrition/dietitian support.
 
 ## Current Risk Profile
 

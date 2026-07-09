@@ -24,6 +24,7 @@ Contact the care team and ask:
 
 - [ ] Who owns the next step: ENT, oncology, radiation oncology, community care, or tumor board?
 - [ ] Is PET/CT or other staging imaging ordered?
+- [ ] If `M0` is being reported, what imaging or assessment is it based on?
 - [ ] Is the case being reviewed by a head-and-neck tumor board?
 - [ ] What is the primary-site workup plan?
 - [ ] What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
@@ -33,6 +34,7 @@ Contact the care team and ask:
 - [ ] Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
 - [ ] Does perioperative pembrolizumab apply only if the exact surgery-based/resectable/PD-L1 CPS criteria fit?
 - [ ] Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment starts?
+- [ ] Are `NCT06223568` or `NCT04900623` worth screening before treatment begins, without delaying curative care?
 - [ ] Should dental clearance, speech/swallow, nutrition, audiology, or fertility preservation be started before treatment?
 - [ ] Can oncology social work help with benefits, travel, lodging, work paperwork, financial hardship, and local assistance?
 

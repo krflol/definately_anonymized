@@ -17,6 +17,17 @@ This plan is supportive. It should not delay staging, oncology visits, biopsy fo
 - Prefer easy-to-eat, high-calorie, high-protein foods if swallowing becomes uncomfortable.
 - Hydrate consistently.
 - Ask early for oncology nutrition support.
+- See `nutrition-formula-and-feeding-tube-readiness.md` for the current oral formula and stockpile plan.
+- Current practical formula strategy: Boost Very High Calorie Creamy Strawberry as the reliable staple / calorie anchor, with TwoCal HN Vanilla as a preferred medical-formula reserve when available.
+- Maintain a formula buffer large enough to bridge a realistic outpatient tube-placement / supply-authorization delay.
+- Do not let formula stockpiling delay escalation if intake, hydration, or swallowing safety fails.
+
+## Feeding-Tube Readiness
+
+- Radiation oncology discussed prophylactic feeding tube as optional rather than clearly medically necessary at the current functional status.
+- A reactive strategy should still have a written escalation plan.
+- Ask the team for exact local timelines for NG tube, PEG/RIG, IV hydration, formula authorization, and supply delivery.
+- If 4-5 high-calorie bottles/cartons per day become necessary for more than several days, treat that as an escalation signal, not just a stockpile-use signal.
 
 ## Exercise
 
@@ -55,4 +66,3 @@ Track:
 - New lumps.
 - Fever/night sweats.
 - Fatigue.
-

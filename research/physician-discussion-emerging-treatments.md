@@ -7,9 +7,12 @@
 - Known diagnosis: metastatic squamous cell carcinoma in a patient-right cervical lymph node.
 - Biomarkers so far: CK5 positive; p16 block positive.
 - Most likely frame until proven otherwise: HPV-mediated oropharyngeal SCC presenting as a neck node, or metastatic squamous neck cancer with occult primary.
-- Missing gating data: primary site, final stage, PET/CT or staging imaging, HPV DNA/RNA or genotype, PD-L1 CPS, resectability, smoking risk category, performance status, and treatment intent.
+- Provisional staging information suggests `M0`; exact TNM/staging system still needs confirmation.
+- Missing gating data: primary site, final stage/staging system, PET/CT or staging imaging basis for `M0`, HPV DNA/RNA or genotype, PD-L1 CPS, resectability, extranodal-extension suspicion, smoking risk category, performance status, cisplatin eligibility, and treatment intent.
 
 Outside-review synthesis: the first task is to determine diagnosis and treatment lane, not to find more experimental options. Ask whether this is HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary; then confirm cT/cN/cM, AJCC 8 stage, node details, HPV-specific testing/genotype, PD-L1 CPS, and whether treatment is surgery-based or definitive chemoradiation-based.
+
+M0 update: if `M0` is confirmed, prioritize curative-intent locoregional pathways and newly diagnosed trials. Recurrent/metastatic systemic therapy becomes less likely as the immediate lane unless later imaging changes the disease setting.
 
 ## How To Frame This With A Physician
 
@@ -29,6 +32,7 @@ The goal is not to demand every new therapy. The goal is to prevent a current ap
 | HPV-targeted TCR-T / engineered cell therapy | Clinical trial | Biologically relevant but usually later-line/recurrent/metastatic | HPV16, HLA type, prior treatment, fitness for cell therapy |
 | HPV ctDNA / TTMV-HPV DNA monitoring | Emerging clinical tool and trial platform | Practical to ask about early, especially as baseline and surveillance adjunct | Confirmed HPV-mediated disease, assay access, action plan |
 | De-intensification / risk-adapted therapy | Trial-driven | Possible only if low-risk criteria fit or within a protocol | Stage, smoking history, nodal burden, ENE, ctDNA, trial |
+| Newly diagnosed HPV-associated OPSCC trials | Clinical trial | More relevant if `M0` and curative-intent window are confirmed | Primary site, HPV confirmation/genotype, stage, timing, trial site |
 | EGFR-directed therapy / cetuximab and newer targeted agents | Standard in some contexts; newer agents trial-stage | Mostly relevant if cisplatin-ineligible or recurrent/metastatic | Cisplatin eligibility, treatment setting, evidence basis |
 | Direct CRISPR / in vivo HPV gene editing | Preclinical/very early translational | Not a realistic treatment path right now | Legitimate clinical trial availability |
 | Personalized neoantigen / individualized mRNA vaccines | Trial-stage in solid tumors | Less directly relevant than HPV antigen approaches, but worth monitoring | Tumor sequencing, trial availability, manufacturing timeline |
@@ -213,18 +217,19 @@ Questions:
 
 ## Highest-Value Questions For The Next Oncology Visit
 
-1. What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
-2. What are cT, cN, cM, AJCC 8 stage, node size, laterality, and extranodal-extension suspicion?
-3. Has high-risk HPV DNA/RNA testing and genotype been ordered, or only p16?
-4. Is PD-L1 CPS being ordered, and would the result change anything in the curative-intent plan?
-5. Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
-6. If surgery is likely and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply to this exact case?
-7. If definitive chemoradiation is likely, what is the standard regimen and why?
-8. Is cisplatin likely, and is the patient eligible for it?
-9. Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment as a baseline?
-10. Are any newly diagnosed HPV-associated OPSCC trials appropriate before treatment begins, without delaying curative care?
-11. Will the case go to head-and-neck tumor board?
-12. If an option is not appropriate, which exact criterion rules it out?
+1. Is `M0` confirmed, and what imaging or assessment is it based on?
+2. What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
+3. What are cT, cN, cM, AJCC 8 stage, node size, laterality, and extranodal-extension suspicion?
+4. Has high-risk HPV DNA/RNA testing and genotype been ordered, or only p16?
+5. Is PD-L1 CPS being ordered, and would the result change anything in the curative-intent plan?
+6. Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
+7. If surgery is likely and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply to this exact case?
+8. If definitive chemoradiation is likely, what is the standard regimen and why?
+9. Is cisplatin likely, and is the patient eligible for it?
+10. Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment as a baseline?
+11. Are `NCT06223568` or `NCT04900623` worth screening before treatment begins, without delaying curative care?
+12. Will the case go to head-and-neck tumor board?
+13. If an option is not appropriate, which exact criterion rules it out?
 
 ## Sources
 

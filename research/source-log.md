@@ -8,6 +8,7 @@ Last public-source review: export-time public-source check. Recheck before clini
 - NCI Metastatic Squamous Neck Cancer With Occult Primary PDQ. https://www.cancer.gov/types/head-and-neck/patient/adult/metastatic-squamous-neck-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, patient version. https://www.cancer.gov/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, health professional version. https://www.cancer.gov/types/head-and-neck/hp/adult/oropharyngeal-treatment-pdq
+- NCI stage III HPV-positive oropharyngeal cancer definition. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/stage-iii-hpv-positive-oropharyngeal-cancer
 - CAP HPV testing guideline update page. https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/human-papillomavirus-testing-in-head-and-neck-carcinomas
 
 ## Immunotherapy
@@ -44,12 +45,22 @@ Last public-source review: export-time public-source check. Recheck before clini
 - De-ESCALaTE HPV: cisplatin versus cetuximab with radiotherapy in HPV-positive low-risk oropharyngeal cancer. https://pubmed.ncbi.nlm.nih.gov/30449623/
 - ClinicalTrials.gov `NCT03952585`, NRG-HN005. https://clinicaltrials.gov/study/NCT03952585
 - ASCO Post NRG-HN005 report. https://ascopost.com/issues/november-10-2024/deintensified-treatment-regimens-fail-to-match-standard-chemoradiation-in-hpv-positive-oropharyngeal-cancer/
+- NCI HPV-related oropharyngeal cancer de-intensification update. https://www.cancer.gov/news-events/cancer-currents-blog/2021/hpv-oropharyngeal-cancer-less-treatment-fewer-side-effects
 
 ## Oral Care
 
 - NIDCR cancer treatment and oral complications. https://www.nidcr.nih.gov/health-info/cancer-treatments
 - ADA toothpaste overview. https://www.ada.org/resources/ada-library/oral-health-topics/toothpastes
 - ADA chewing gum overview. https://www.ada.org/resources/ada-library/oral-health-topics/chewing-gum
+
+## Nutrition And Feeding-Tube Readiness
+
+- ASPEN adult head-and-neck cancer nutrition guideline/practice tool. https://nutritioncare.org/wp-content/uploads/2026/03/Adult-Head-Neck-Cancer-Guidelines.pdf
+- Boost Very High Calorie official product page. https://www.boost.com/products/boost-very-high-calorie
+- Nestle Nutrition Store Boost Very High Calorie. https://www.nestlenutritionstore.com/boostr-very-high-calorie.html
+- Amazon Boost Very High Calorie Creamy Strawberry product page. https://www.amazon.com/Boost-Calorie-Complete-Nutritional-Strawberry/dp/B07T3KYH4N/
+- Abbott Store TwoCal HN Vanilla. https://abbottstore.com/therapeutic-nutrition/twocal-hn/twocal-hn/twocal-hn-vanilla-8-oz-tetra-case-of-24-64809.html
+- Abbott Nutrition TwoCal HN overview. https://www.abbottnutrition.com/our-products/twocal-hn
 
 ## Benefits, Work Leave, And VA Exposure
 

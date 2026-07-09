@@ -6,6 +6,10 @@ HPV-mediated oropharyngeal cancers often respond better than HPV-negative diseas
 
 Key caution: deintensification should generally be trial-based unless the treating tumor board gives a specific reason. Less treatment can mean less toxicity, but it can also risk worse cancer control if used in the wrong patient.
 
+With provisional `M0`, deintensification research becomes more relevant but not automatically safer. The key issue is whether the final case is low-risk HPV-mediated oropharyngeal cancer or a higher-risk locoregional presentation because of nodal burden, extranodal-extension suspicion, smoking history, or uncertain primary site.
+
+NRG-HN005 is an important caution: its reduced-intensity arms did not establish noninferiority to standard chemoradiation in the studied population.
+
 ## Targeted Agents
 
 EGFR targeting, including cetuximab in selected settings, is part of the head-and-neck cancer toolkit. Newer bispecific antibodies and targeted combinations are mainly being studied in recurrent/metastatic HNSCC.
@@ -21,4 +25,4 @@ Personalized mRNA or peptide vaccines target tumor-specific mutations. In HPV-me
 - Is the final stage low-risk, intermediate-risk, or high-risk?
 - Is any reduced-intensity approach standard for this exact situation, or only available in trials?
 - Do nodal size, smoking history, extranodal extension, or tumor volume make deintensification unsafe?
-
+- If Stage III is confirmed, does that exclude early-stage deintensification trials?
