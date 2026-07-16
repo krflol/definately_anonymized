@@ -2,6 +2,8 @@
 
 This note translates the emerging-treatment matrix into patient-facing language. It is not a treatment recommendation.
 
+Current case update: the recent tonsillectomy and tongue-base biopsies were performed to find the primary site. The tonsil pathology and tongue-base pathology are pending, and the known neck-node cancer was not removed. This diagnostic procedure changes trial timing questions but does not itself select a treatment.
+
 ## Standard Staging And Curative-Intent Treatment
 
 This is the foundation. Before choosing treatment, the team needs to find the primary site, determine stage, check whether disease is regional or distant, and decide whether surgery, radiation, chemotherapy, immunotherapy, or a trial makes sense.
@@ -61,4 +63,3 @@ Treat this as a research-monitoring topic unless a legitimate clinical trial exi
 These vaccines are custom-built from a person's tumor mutations. They are an active research area across solid tumors.
 
 For HPV-driven disease, shared HPV targets like E6/E7 may be more direct than private mutation targets. This category is mostly clinical-trial territory.
-

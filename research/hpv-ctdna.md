@@ -8,7 +8,7 @@ It is not a replacement for imaging, exam, biopsy, or staging.
 
 ## Why It Could Matter
 
-If this is confirmed HPV-mediated oropharyngeal SCC, a pretreatment HPV ctDNA baseline could be useful if the care team plans serial monitoring after treatment.
+If this is confirmed HPV-mediated oropharyngeal SCC, HPV ctDNA could be useful if the care team plans serial monitoring after treatment. Because diagnostic tonsillectomy has already occurred, a draw now should be labeled `post-tonsillectomy, pre-definitive nodal treatment`, not a true preoperative baseline.
 
 ## Trial Examples
 
@@ -21,7 +21,6 @@ If this is confirmed HPV-mediated oropharyngeal SCC, a pretreatment HPV ctDNA ba
 
 ## Ask Oncology
 
-- Should HPV ctDNA be drawn before treatment as a baseline?
+- Should HPV ctDNA be drawn before definitive nodal treatment, with the timing labeled accurately?
 - Would the result change management or mainly help with surveillance?
 - Are there ctDNA-guided trials appropriate for the final stage and treatment path?
-

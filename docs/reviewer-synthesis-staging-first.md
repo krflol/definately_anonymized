@@ -2,6 +2,8 @@
 
 Public-safe synthesis of outside review of this repository.
 
+> Current update: PET/CT supports a provisional `cM0` frame. A diagnostic primary-site procedure subsequently removed the patient-right tonsil and sampled the patient-right base of tongue; both pathology results are pending. No neck dissection occurred, so known nodal SCC remains. AJCC Version 9 applies if HPV-associated oropharyngeal carcinoma is confirmed.
+
 ## Central Read
 
 The current repo framing is clinically reasonable:
@@ -13,7 +15,7 @@ The current repo framing is clinically reasonable:
 - p16 block positive;
 - flow cytometry without a lymphoma-type immunophenotypic abnormality;
 - HPV-mediated oropharyngeal SCC is a leading possibility;
-- primary site and full stage remain unresolved.
+- primary site and formal stage remain unresolved pending the new pathology and AJCC Version 9 review.
 
 The most important missing items are classification and staging facts, not more exotic-treatment research.
 
@@ -25,15 +27,15 @@ This distinction matters because HPV-mediated oropharyngeal cancer with neck-nod
 
 ## Highest-Yield Missing Data
 
-- PET/CT report: primary site, nodal burden, and distant disease check.
-- ENT primary-site workup: scope, exam under anesthesia if needed, tonsil/base-of-tongue evaluation, and directed biopsies if indicated.
+- Final pathology from the patient-right tonsil and patient-right base-of-tongue biopsies.
 - Formal diagnosis category: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck/skin source.
-- Formal stage: cT, cN, cM, AJCC 8 HPV-mediated stage if oropharyngeal.
-- Node details: size, laterality, number/levels, and extranodal-extension suspicion.
+- Formal stage: cT, cN, cM, AJCC Version 9 stage if HPV-associated oropharyngeal.
+- Node details: size, laterality, number/levels, and imaging-detected extranodal-extension status.
 - HPV-specific testing: high-risk HPV DNA/RNA and genotype if needed, especially for trials.
 - PD-L1 CPS.
 - Smoking pack-years / risk category.
 - Treatment lane: surgery-based, definitive chemoradiation, systemic therapy, or trial.
+- Definitive management plan for the known patient-right cervical-node disease.
 
 ## Treatment Research Reframe
 
@@ -53,11 +55,11 @@ Better:
 ## Tight Oncology Question Set
 
 1. What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
-2. What are cT, cN, cM, AJCC 8 stage, node size, laterality, and extranodal-extension suspicion?
+2. Which new specimen identifies the primary, and what are cT, cN, cM, AJCC Version 9 stage, node size, laterality, and imaging-detected extranodal-extension status?
 3. Has high-risk HPV DNA/RNA testing and genotype been ordered, or only p16?
 4. Is PD-L1 CPS being ordered, and would the result change anything in the curative-intent plan?
 5. Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
-6. Does the perioperative pembrolizumab approval apply to this exact case?
-7. Should baseline HPV ctDNA / TTMV-HPV DNA be drawn before treatment starts?
-8. Are any newly diagnosed HPV-associated OPSCC trials worth considering before treatment begins, without delaying curative care?
-
+6. What is the definitive plan for the known cervical-node disease?
+7. Does the perioperative pembrolizumab approval apply if a later operation would be the definitive oncologic surgery?
+8. Should HPV ctDNA / TTMV-HPV DNA be drawn before definitive nodal treatment, accurately labeled as post-tonsillectomy?
+9. Does any newly diagnosed HPV-associated OPSCC trial remain technically available after diagnostic tonsillectomy, without delaying curative care?

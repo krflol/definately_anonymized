@@ -25,4 +25,4 @@ Personalized mRNA or peptide vaccines target tumor-specific mutations. In HPV-me
 - Is the final stage low-risk, intermediate-risk, or high-risk?
 - Is any reduced-intensity approach standard for this exact situation, or only available in trials?
 - Do nodal size, smoking history, extranodal extension, or tumor volume make deintensification unsafe?
-- If Stage III is confirmed, does that exclude early-stage deintensification trials?
+- Does the written AJCC Version 9 stage exclude trials that use AJCC v8 early-stage eligibility language?

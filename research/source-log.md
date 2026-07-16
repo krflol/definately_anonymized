@@ -8,7 +8,10 @@ Last public-source review: export-time public-source check. Recheck before clini
 - NCI Metastatic Squamous Neck Cancer With Occult Primary PDQ. https://www.cancer.gov/types/head-and-neck/patient/adult/metastatic-squamous-neck-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, patient version. https://www.cancer.gov/types/head-and-neck/patient/adult/oropharyngeal-treatment-pdq
 - NCI Oropharyngeal Cancer Treatment PDQ, health professional version. https://www.cancer.gov/types/head-and-neck/hp/adult/oropharyngeal-treatment-pdq
-- NCI stage III HPV-positive oropharyngeal cancer definition. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/stage-iii-hpv-positive-oropharyngeal-cancer
+- American College of Surgeons, AJCC Version 9 staging protocols and effective-year guidance for HPV-associated oropharynx. https://www.facs.org/quality-programs/cancer-programs/american-joint-committee-on-cancer/version-9/
+- CAP HPV-associated oropharynx resection protocol, including tonsillectomy, margins, nodal fields, and AJCC Version 9. https://documents.cap.org/protocols/HN.HPV-Assoc_Oropharynx.RES_1.0.0.0.REL_CAPCP.pdf
+- JAMA Otolaryngology Version 9 proposal describing imaging-detected extranodal extension in clinical nodal staging. https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2833785
+- NCI stage III HPV-positive oropharyngeal cancer definition, retained only as historical AJCC 8 context. https://www.cancer.gov/publications/dictionaries/cancer-terms/def/stage-iii-hpv-positive-oropharyngeal-cancer
 - CAP HPV testing guideline update page. https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/human-papillomavirus-testing-in-head-and-neck-carcinomas
 
 ## Immunotherapy
@@ -61,6 +64,12 @@ Last public-source review: export-time public-source check. Recheck before clini
 - Amazon Boost Very High Calorie Creamy Strawberry product page. https://www.amazon.com/Boost-Calorie-Complete-Nutritional-Strawberry/dp/B07T3KYH4N/
 - Abbott Store TwoCal HN Vanilla. https://abbottstore.com/therapeutic-nutrition/twocal-hn/twocal-hn/twocal-hn-vanilla-8-oz-tetra-case-of-24-64809.html
 - Abbott Nutrition TwoCal HN overview. https://www.abbottnutrition.com/our-products/twocal-hn
+
+## Postoperative Tonsillectomy Recovery
+
+- University of Mississippi Medical Center adult tonsillectomy home care. https://www.umc.edu/Healthcare/ENT/Patient-Handouts/Adult/Adenoids_tonsils/Tonsillectomy_Adult.html
+- Cambridge University Hospitals adult tonsillectomy advice. https://www.cuh.nhs.uk/patient-information/tonsillectomy-advice-leaflet/
+- Hull University Teaching Hospitals adult tonsillectomy guidance. https://www.hey.nhs.uk/patient-leaflet/adult-tonsillectomy/
 
 ## Benefits, Work Leave, And VA Exposure
 

@@ -7,10 +7,11 @@
 - Known diagnosis: metastatic squamous cell carcinoma in a patient-right cervical lymph node.
 - Biomarkers so far: CK5 positive; p16 block positive.
 - Most likely frame until proven otherwise: HPV-mediated oropharyngeal SCC presenting as a neck node, or metastatic squamous neck cancer with occult primary.
-- Provisional staging information suggests `M0`; exact TNM/staging system still needs confirmation.
-- Missing gating data: primary site, final stage/staging system, PET/CT or staging imaging basis for `M0`, HPV DNA/RNA or genotype, PD-L1 CPS, resectability, extranodal-extension suspicion, smoking risk category, performance status, cisplatin eligibility, and treatment intent.
+- PET/CT supports a provisional local-regional / `cM0` frame.
+- Diagnostic primary-site workup removed the patient-right tonsil and sampled the patient-right base of tongue; both pathology results are pending. No neck dissection occurred, so known nodal SCC remains.
+- Missing gating data: new pathology, primary site, AJCC Version 9 stage, imaging-detected extranodal-extension status, HPV DNA/RNA or genotype, PD-L1 CPS, resectability, smoking risk category, performance status, cisplatin eligibility, and definitive treatment plan.
 
-Outside-review synthesis: the first task is to determine diagnosis and treatment lane, not to find more experimental options. Ask whether this is HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary; then confirm cT/cN/cM, AJCC 8 stage, node details, HPV-specific testing/genotype, PD-L1 CPS, and whether treatment is surgery-based or definitive chemoradiation-based.
+Outside-review synthesis: the first task is to determine diagnosis and treatment lane, not to find more experimental options. Ask whether this is HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary; then confirm the new pathology, cT/cN/cM, AJCC Version 9 stage, node details, HPV-specific testing/genotype, PD-L1 CPS, and whether treatment is surgery-based or definitive chemoradiation-based.
 
 M0 update: if `M0` is confirmed, prioritize curative-intent locoregional pathways and newly diagnosed trials. Recurrent/metastatic systemic therapy becomes less likely as the immediate lane unless later imaging changes the disease setting.
 
@@ -32,7 +33,7 @@ The goal is not to demand every new therapy. The goal is to prevent a current ap
 | HPV-targeted TCR-T / engineered cell therapy | Clinical trial | Biologically relevant but usually later-line/recurrent/metastatic | HPV16, HLA type, prior treatment, fitness for cell therapy |
 | HPV ctDNA / TTMV-HPV DNA monitoring | Emerging clinical tool and trial platform | Practical to ask about early, especially as baseline and surveillance adjunct | Confirmed HPV-mediated disease, assay access, action plan |
 | De-intensification / risk-adapted therapy | Trial-driven | Possible only if low-risk criteria fit or within a protocol | Stage, smoking history, nodal burden, ENE, ctDNA, trial |
-| Newly diagnosed HPV-associated OPSCC trials | Clinical trial | More relevant if `M0` and curative-intent window are confirmed | Primary site, HPV confirmation/genotype, stage, timing, trial site |
+| Newly diagnosed HPV-associated OPSCC trials | Clinical trial | Still worth criterion-level review because the recent procedure was diagnostic, but eligibility is uncertain and standard care must not be delayed | New pathology, remaining biopsy-accessible disease, planned definitive surgery, HPV confirmation/genotype, stage, timing, trial site |
 | EGFR-directed therapy / cetuximab and newer targeted agents | Standard in some contexts; newer agents trial-stage | Mostly relevant if cisplatin-ineligible or recurrent/metastatic | Cisplatin eligibility, treatment setting, evidence basis |
 | Direct CRISPR / in vivo HPV gene editing | Preclinical/very early translational | Not a realistic treatment path right now | Legitimate clinical trial availability |
 | Personalized neoantigen / individualized mRNA vaccines | Trial-stage in solid tumors | Less directly relevant than HPV antigen approaches, but worth monitoring | Tumor sequencing, trial availability, manufacturing timeline |
@@ -50,6 +51,7 @@ Case against:
 - It only applies if the case is resectable locally advanced HNSCC and PD-L1 CPS >= 1.
 - It may not apply if treatment is definitive chemoradiation without surgery, if primary site/stage do not match the label, or if PD-L1 CPS is negative/unknown.
 - Immunotherapy can cause immune-related adverse events and should not delay standard curative-intent planning.
+- The approved sequence starts before definitive surgery. The diagnostic tonsillectomy does not by itself settle whether a later definitive-surgery sequence remains possible, and postoperative pembrolizumab alone is not the same regimen.
 
 Questions:
 
@@ -133,7 +135,7 @@ Case against:
 
 Questions:
 
-- Should HPV ctDNA be drawn before treatment as a baseline?
+- Should HPV ctDNA be drawn before definitive nodal treatment, with the timing labeled as post-tonsillectomy?
 - Which assay would you use, and is it available through my system?
 - Would the result change treatment now, or mainly help with surveillance?
 - Are there ctDNA-guided trials appropriate for the final stage?
@@ -219,15 +221,15 @@ Questions:
 
 1. Is `M0` confirmed, and what imaging or assessment is it based on?
 2. What is the exact working diagnosis today: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck primary?
-3. What are cT, cN, cM, AJCC 8 stage, node size, laterality, and extranodal-extension suspicion?
+3. Which new specimen identifies the primary, and what are cT, cN, cM, AJCC Version 9 stage, node size, laterality, and imaging-detected extranodal-extension status?
 4. Has high-risk HPV DNA/RNA testing and genotype been ordered, or only p16?
 5. Is PD-L1 CPS being ordered, and would the result change anything in the curative-intent plan?
 6. Is treatment expected to be surgery-based, definitive chemoradiation-based, or still undecided?
-7. If surgery is likely and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply to this exact case?
+7. If another definitive surgery is planned and PD-L1 CPS >= 1, does the perioperative pembrolizumab approval apply to this exact case?
 8. If definitive chemoradiation is likely, what is the standard regimen and why?
 9. Is cisplatin likely, and is the patient eligible for it?
-10. Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment as a baseline?
-11. Are `NCT06223568` or `NCT04900623` worth screening before treatment begins, without delaying curative care?
+10. Should HPV ctDNA / TTMV-HPV DNA be drawn before definitive nodal treatment, accurately labeled as post-tonsillectomy?
+11. Does `NCT06223568` or another newly diagnosed trial remain technically screenable after diagnostic tonsillectomy, without delaying curative care?
 12. Will the case go to head-and-neck tumor board?
 13. If an option is not appropriate, which exact criterion rules it out?
 

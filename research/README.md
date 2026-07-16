@@ -3,8 +3,10 @@
 This folder tracks science-backed but new or trial-stage treatment areas relevant to the current working diagnosis:
 
 - metastatic p16-positive squamous cell carcinoma in a patient-right cervical lymph node;
-- probable HPV-mediated head-and-neck primary, with primary site and stage still pending.
-- provisional `M0` update, pending exact staging-system confirmation.
+- probable HPV-mediated oropharyngeal primary, with tonsil and base-of-tongue pathology pending;
+- provisional `cM0` update;
+- diagnostic patient-right tonsillectomy and patient-right base-of-tongue biopsies completed without neck dissection;
+- AJCC Version 9 stage and definitive plan for known nodal disease pending.
 
 ## Maturity Map
 
@@ -28,9 +30,9 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 ## Highest-Yield Missing Data
 
 - Formal diagnosis lane: HPV-mediated oropharyngeal SCC, SCC of unknown primary, or another head/neck/skin source.
-- PET/CT and full staging.
-- Basis for `M0`.
-- Primary-site identification.
+- Tonsil and base-of-tongue pathology.
+- Written AJCC Version 9 `cT/cN/cM`, stage group, and imaging-detected extranodal-extension status.
+- Definitive plan for the known patient-right cervical-node disease.
 - HPV DNA/RNA and genotype, if ordered.
 - PD-L1 CPS.
 - Resectability.
@@ -39,4 +41,4 @@ This folder tracks science-backed but new or trial-stage treatment areas relevan
 
 Outside-review synthesis emphasized that classification and staging facts should outrank additional emerging-treatment research until the treatment lane is clear.
 
-The provisional `M0` update makes newly diagnosed curative-intent trial screening more relevant than recurrent/metastatic-only research unless future imaging changes the disease setting.
+The provisional `cM0` update makes newly diagnosed curative-intent trial screening more relevant than recurrent/metastatic-only research unless future imaging changes the disease setting. The diagnostic procedure does not automatically close every neoadjuvant window, but eligibility now requires direct protocol review and must not delay standard treatment.

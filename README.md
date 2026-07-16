@@ -11,7 +11,9 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - Biopsy result: metastatic squamous cell carcinoma, moderate to poorly differentiated.
 - Immunohistochemistry: CK5 positive; p16 positive with block staining.
 - Flow cytometry: no significant lymphoid immunophenotypic abnormalities.
-- Current interpretation: HPV-mediated oropharyngeal squamous cell carcinoma is a leading possibility. Initial PET/CT supports a provisional local-regional / `M0` frame, but primary site, exact TNM, and final stage remain pending.
+- Initial PET/CT supports a provisional local-regional / `M0` frame, without suspicious uptake reported in the chest, abdomen, pelvis, or bones.
+- Primary-site workup update: diagnostic suspension microlaryngoscopy inspected the upper aerodigestive tract, small patient-right base-of-tongue biopsies were taken, and the patient-right tonsil was removed en bloc. No neck dissection was performed.
+- Current interpretation: HPV-mediated oropharyngeal squamous cell carcinoma remains the leading possibility. Tonsil and base-of-tongue pathology, exact primary site, AJCC Version 9 TNM/stage, and definitive treatment of the known neck-node disease remain pending.
 
 ## What This Is Not
 
@@ -29,6 +31,7 @@ It is designed to preserve the decision trail, research notes, questions for cli
 - `docs/glossary-head-neck-cancer.md` - searchable glossary of clinical and benefits-relevant terms.
 - `docs/reviewer-synthesis-staging-first.md` - outside-review synthesis emphasizing classification and staging before treatment speculation.
 - `docs/provisional-m0-locoregional-research.md` - research update specific to provisional M0 locoregional disease.
+- `docs/diagnostic-primary-site-procedure.md` - anonymized operative-event summary, pathology branches, and updated decision points.
 - `docs/nutrition-formula-and-feeding-tube-readiness.md` - oral formula and stockpile plan for a reactive feeding-tube strategy.
 - `daily-action-plans/` - public-safe daily operating plans using relative dates.
 - `research/` - diagnosis-specific research notes on immunotherapy, HPV vaccines/mRNA, CRISPR/cell therapy, HPV ctDNA, and trials.
@@ -38,18 +41,19 @@ It is designed to preserve the decision trail, research notes, questions for cli
 
 ## Key Open Clinical Questions
 
-- What is the primary site: tonsil, base of tongue, other oropharynx, oral cavity, larynx/hypopharynx, skin, or unknown primary?
+- Do the patient-right tonsil or patient-right base-of-tongue specimens contain carcinoma, and which site is the primary?
+- If the tonsil is positive, what are tumor size, HPV-specific result, margins, lymphovascular invasion, and perineural invasion?
 - Is this formally staged as HPV-mediated oropharyngeal SCC?
-- What are cT, cN, cM, AJCC 8 stage, node size/laterality, and extranodal-extension suspicion?
+- What are cT, cN, cM, AJCC Version 9 stage, node size/laterality, and imaging-detected extranodal-extension status?
 - Is additional HPV DNA/RNA/genotype testing needed beyond p16?
-- What is the full stage after PET/CT and complete workup?
 - Should PD-L1 CPS be run on the biopsy specimen?
-- Is treatment expected to be surgery-based, radiation/chemoradiation-based, or trial-based?
+- What is the definitive plan for the known patient-right cervical-node disease: neck dissection, radiation, chemoradiation, or another tumor-board plan?
+- Was the recent procedure solely diagnostic, and which later event, if any, will count as definitive oncologic surgery?
 - Does perioperative pembrolizumab apply only if the exact surgery-based/resectable/PD-L1 CPS criteria fit?
-- Should HPV ctDNA / TTMV-HPV DNA be drawn as a pretreatment baseline?
+- Should HPV ctDNA / TTMV-HPV DNA be drawn before definitive nodal treatment, labeled as post-tonsillectomy rather than a true preoperative baseline?
 - If provisional `M0` is confirmed, which curative-intent lane applies: surgery-based, definitive chemoradiation, or trial?
 - If oral intake drops during treatment, what is the local timeline for NG tube, PEG/RIG, IV hydration, formula authorization, and supply delivery?
-- Are there trial options worth screening before standard treatment begins?
+- Does any newly diagnosed trial remain technically available after a diagnostic tonsillectomy, without delaying standard curative care?
 - Which benefits/work-leave/VA claim tracks should be started before treatment creates income or insurance disruption?
 - Does generalized submarine AFFF/PFAS exposure support a VA direct service-connection / TERA theory, separate from any PACT Act covered-location presumption?
 

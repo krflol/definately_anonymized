@@ -20,6 +20,24 @@ This glossary is intentionally broad and public-safe.
 
 **Core needle biopsy**: A biopsy that removes small cylinders of tissue with a needle.
 
+**Base of tongue**: The back third of the tongue, located in the oropharynx. It contains lingual tonsil tissue and is a common site of HPV-associated oropharyngeal cancer.
+
+**Palatine tonsil**: The tonsil on either side of the throat that is usually meant when a report simply says "tonsil."
+
+**Upper aerodigestive tract**: The connected mouth, nose, throat, voice-box, and upper swallowing passages examined when clinicians search for a head-and-neck primary.
+
+**Suspension microlaryngoscopy**: Examination of the mouth, throat, larynx, and nearby structures under anesthesia using a rigid scope held in position so the surgeon can inspect and biopsy suspicious areas.
+
+**Tonsillectomy**: Surgical removal of a tonsil. A diagnostic tonsillectomy may identify an occult primary but does not automatically equal complete oncologic treatment.
+
+**En bloc**: Removed as one intact specimen rather than in fragments. This helps pathology assess the specimen but does not by itself prove that the cancer was removed with adequate margins.
+
+**Diagnostic procedure**: A procedure intended to identify or characterize disease. It may remove tissue or even the visible lesion without necessarily being planned as definitive cancer treatment.
+
+**Definitive oncologic surgery**: Surgery planned as the main operation to remove all intended primary and/or regional cancer with appropriate cancer-control margins and staging.
+
+**Neck dissection**: Surgery that removes lymph nodes from defined neck levels. It can treat regional disease and provide node count, size, and pathologic extranodal-extension information.
+
 **Flow cytometry**: Lab test often used to evaluate blood/lymphoid cancers. A normal or non-diagnostic result can make lymphoma less likely but does not replace pathology.
 
 ## Biomarkers
@@ -40,6 +58,16 @@ This glossary is intentionally broad and public-safe.
 
 **TNM stage**: Tumor-node-metastasis staging system. It describes primary tumor size/extent, lymph nodes, and distant spread.
 
+**AJCC Version 9**: The current AJCC staging protocol for HPV-associated oropharyngeal carcinoma diagnosed in 2026. Earlier AJCC 8 estimates should not be treated as the final current stage.
+
+**cT / cN / cM**: Clinical tumor, node, and metastasis categories assigned from examination, imaging, biopsy, and other pre-treatment information.
+
+**pT / pN**: Pathologic tumor and node categories assigned from adequately resected tissue. A tonsil specimen may support `pT`, but `pN` generally cannot be fully assigned without appropriate nodal surgery.
+
+**Extranodal extension (ENE)**: Cancer growing through the capsule of a lymph node into surrounding tissue.
+
+**Imaging-detected extranodal extension (iENE)**: Unequivocal extranodal extension identified on imaging and used in AJCC Version 9 clinical nodal staging for HPV-associated oropharyngeal carcinoma.
+
 **Regional disease**: Cancer spread within nearby lymph nodes or structures.
 
 **Distant metastasis**: Cancer spread to distant organs or non-regional sites.
@@ -59,6 +87,20 @@ This glossary is intentionally broad and public-safe.
 **Neoadjuvant therapy**: Treatment given before the main treatment.
 
 **Perioperative therapy**: Treatment given around surgery, usually before and after.
+
+**Surgical margin**: The cut edge of removed tissue. Pathology checks whether cancer reaches or approaches that edge.
+
+**Negative margin**: No invasive cancer identified at the examined cut edge. The measured clearance and clinical context still matter.
+
+**Positive margin**: Invasive cancer present at the examined cut edge, suggesting possible residual local disease and often affecting additional-treatment recommendations.
+
+**Close margin**: Cancer is not at the cut edge but is within a small distance. The relevant threshold depends on site, specimen handling, and treatment-team interpretation.
+
+**Tumor-bed margin**: Additional tissue taken from the surgical cavity after the main specimen is removed. It is distinct from the edge of the main specimen and must be interpreted with its orientation.
+
+**Lymphovascular invasion (LVI)**: Cancer cells identified within lymphatic or blood vessels, a feature that may affect risk assessment.
+
+**Perineural invasion (PNI)**: Cancer identified tracking in or around nerves, a feature that may affect risk assessment and treatment planning.
 
 **Tumor board**: A multidisciplinary meeting where specialists discuss diagnosis and treatment planning.
 
@@ -103,4 +145,3 @@ This glossary is intentionally broad and public-safe.
 **Speech/swallow therapy**: Therapy to preserve or recover speaking and swallowing function.
 
 **Dental clearance**: Dental evaluation before head-and-neck radiation to reduce severe dental complications.
-

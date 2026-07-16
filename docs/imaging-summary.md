@@ -17,6 +17,7 @@ This is an anonymized summary of the private CT review work. No DICOM files, scr
 - The visible patient-right neck/cervical-chain abnormality aligns with the later biopsy-proven malignant lymph-node disease.
 - PET/CT identified avid patient-right neck nodal disease.
 - PET/CT showed tonsillar/oropharyngeal uptake, with right tonsil/oropharynx a suspected primary site, but bilateral tonsillar uptake may require clinical correlation before treating PET alone as definitive primary-site proof.
+- Subsequent diagnostic primary-site workup removed the patient-right tonsil and sampled the patient-right base of tongue. Pathology, rather than PET uptake alone, now controls whether either site is established as the primary.
 - PET/CT did not report suspicious FDG uptake in chest, abdomen, pelvis, or bone.
 - The current imaging frame is therefore provisional local-regional / `M0`, pending clinician-confirmed staging and primary-site workup.
 - Contrast CT/MRI neck or directed ENT evaluation may still be needed depending on oncology/ENT/radiation plan.
@@ -41,7 +42,7 @@ Generated images and manifests are ignored by Git. They should be used locally f
 
 - What imaging is required for final staging?
 - Does the care team accept the PET/CT as confirming `M0`?
-- Does the tonsillar/oropharyngeal uptake identify a primary site, or is further ENT evaluation/biopsy needed?
+- Do the tonsil or base-of-tongue pathology results identify the primary site?
 - Does left-sided tonsillar uptake appear physiologic, inflammatory, synchronous disease, or clinically irrelevant?
 - Is contrast MRI or contrast CT neck needed?
 - Are there additional suspicious lymph nodes?

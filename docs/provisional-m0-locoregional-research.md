@@ -1,89 +1,95 @@
-# Provisional M0 Locoregional Research Update
+# Provisional M0 Locoregional And Staging Update
 
-Public-safe research note based on a new provisional staging detail. Exact stage notation and staging system still need confirmation.
+This public-safe note preserves the earlier provisional staging statement while correcting it for the 2026 staging system and the subsequent diagnostic primary-site procedure.
 
-## Working Update
+## Working Disease Frame
 
-New private-vault information appears to indicate:
+- The cervical-node biopsy proves patient-right nodal squamous cell carcinoma.
+- PET/CT did not report suspicious disease in the chest, abdomen, pelvis, or bones, supporting a provisional local-regional / `cM0` frame.
+- A provider previously conveyed a line transcribed as approximately `T2 N2a M0, Stage III`.
+- That older line did not identify the staging system and should not be carried forward as the formal current stage.
 
-- likely `T2 N2a M0`;
-- provisional Stage III;
-- `M0`, meaning no distant metastasis identified in the provisional staging.
+If the final diagnosis is HPV-associated oropharyngeal carcinoma, AJCC Version 9 applies to diagnoses in 2026. Request a fresh written `cT`, `cN`, `cM`, stage group, and imaging-detected extranodal-extension (`iENE`) assessment. Earlier AJCC 8 comparisons remain historical only.
 
-The exact notation and staging system need confirmation. This matters because AJCC 8 HPV-mediated oropharyngeal staging uses different nodal categories than conventional/p16-negative head-and-neck staging.
+## Primary-Site Workup Update
 
-## Why M0 Changes The Research Frame
+On `Day +29`, diagnostic suspension microlaryngoscopy inspected the upper aerodigestive tract, small patient-right base-of-tongue biopsies were obtained, and the patient-right tonsil was removed en bloc.
 
-If `M0` is confirmed, the research priority shifts toward:
+- Tonsil and tongue-base pathology remain pending.
+- No neck dissection occurred.
+- The known nodal cancer remains in place.
+- The procedure cannot establish a complete pathologic N category, involved-node count, or pathologic extranodal extension.
 
-- curative-intent locoregional treatment;
-- primary-site confirmation;
-- surgery-based versus definitive chemoradiation pathway;
-- newly diagnosed HPV-associated oropharyngeal/head-and-neck trials before treatment starts;
-- baseline HPV ctDNA / TTMV-HPV DNA if the team has an action plan.
+## Why M0 Still Matters
 
-It shifts away from recurrent/metastatic systemic therapy as the immediate lane unless later imaging changes the disease setting.
+If `cM0` is confirmed, the priority remains curative-intent locoregional management:
+
+- identify the primary site from the new pathology;
+- assign AJCC Version 9 stage if HPV-associated oropharyngeal;
+- choose a surgery-based or definitive radiation/chemoradiation pathway;
+- consider a newly diagnosed trial only if eligibility fits without delaying curative care;
+- consider HPV ctDNA as an adjunct if the team has an action plan for the result.
+
+This remains distinct from the recurrent/distant-metastatic systemic-therapy setting.
 
 ## Staging Questions
 
-Ask the care team:
-
-- Is `M0` based on PET/CT, CT chest, or clinical assessment?
-- Is the exact notation `cT2 cN2a cM0`, `pT2 pN2a pM0`, or something else?
-- Which staging system is being used: AJCC 8 HPV-mediated oropharynx, conventional/p16-negative, or another primary-site system?
-- What is the primary site, or is this still occult primary?
-- Is nodal disease unilateral, bilateral, or contralateral?
-- Is extranodal extension suspected?
-- Does this stage group change after tumor board review?
+1. Is `cM0` confirmed from PET/CT and the complete staging workup?
+2. Which new specimen, if either, identifies the primary site?
+3. What is the written `cT__ cN__ cM0` line and AJCC Version 9 stage group?
+4. Is imaging-detected ENE present, absent, or indeterminate?
+5. If tonsil carcinoma is present, what are `pT`, margins, LVI, PNI, and HPV-specific results?
+6. Because no neck dissection occurred, is `pN` unassigned?
+7. Does tumor board agree with the diagnosis, stage, and treatment lane?
 
 ## Treatment-Lane Implications
 
-If HPV-mediated oropharyngeal SCC and `M0` are confirmed, broad curative-intent lanes commonly include:
+Broad curative-intent lanes may include:
 
-- definitive radiation with cisplatin-based chemotherapy;
-- transoral surgery/neck dissection followed by risk-adapted adjuvant radiation or chemoradiation;
-- clinical-trial screening before definitive treatment if timing and eligibility fit.
+- definitive radiation with cisplatin-based chemotherapy when indicated;
+- definitive surgical management of remaining disease followed by risk-adapted radiation or chemoradiation;
+- a qualifying clinical trial before definitive treatment.
 
-Treatment choice depends on anatomy, nodal burden, extranodal-extension suspicion, expected swallowing/speech outcomes, cisplatin eligibility, and center expertise.
-
-If the primary remains occult, the most important research issue is primary-site workup and how the tumor board would choose surgery/radiation fields.
+The correct lane depends on the primary site, Version 9 stage, nodal anatomy, imaging-detected ENE, margins if a primary is found, expected functional outcomes, cisplatin eligibility, and center expertise.
 
 ## Immunotherapy Implication
 
-Perioperative pembrolizumab is relevant only if the exact lane fits:
+FDA-approved perioperative pembrolizumab applies only when all required features fit, including resectable locally advanced HNSCC, PD-L1 CPS `>= 1`, and a surgery-based plan beginning with neoadjuvant pembrolizumab before definitive surgery.
 
-- resectable locally advanced HNSCC;
-- PD-L1 CPS >= 1 by an FDA-approved test;
-- surgery-based treatment plan.
+The `Day +29` procedure was documented as a diagnostic primary-site search rather than complete oncologic resection. It therefore does not by itself prove that the neoadjuvant window has passed. Applicability remains uncertain and should be resolved by tumor board; postoperative pembrolizumab alone is not an equivalent substitute for the approved sequence.
 
-If definitive chemoradiation is preferred, that FDA-approved perioperative pathway may not apply cleanly.
+## De-Intensification Caution
 
-## De-Intensification Implication
+HPV/p16 positivity and `cM0` can make lower-intensity treatment attractive, but reduced-intensity therapy can sacrifice disease control if applied outside the right population. NRG-HN005 did not establish its reduced-intensity arms as noninferior to standard chemoradiation. De-intensification should remain trial-based or specifically supported by the multidisciplinary team.
 
-HPV/p16 positivity and `M0` can make de-intensification tempting. This remains a caution area.
+## Trial Shortlist
 
-Reduced-intensity treatment should generally be trial-based or specifically tumor-board supported. NRG-HN005 is an important cautionary trial because its reduced-intensity arms did not establish noninferiority to standard chemoradiation in the studied population.
+Statuses were rechecked against ClinicalTrials.gov at export time.
 
-## Trial Shortlist To Ask About
-
-Current trial status was checked from ClinicalTrials.gov API in the private vault.
-
-| Trial | Status | Relevance |
+| Trial | Status | Current interpretation |
 | --- | --- | --- |
-| `NCT06223568` | Recruiting | PRGN-2009 with neoadjuvant chemotherapy in newly diagnosed HPV-associated oropharyngeal/head-and-neck cancer. |
-| `NCT04900623` | Recruiting | ReACT ctDNA risk-adapted therapy; includes AJCC v8 clinical stage I-III HPV-mediated oropharyngeal carcinoma. |
-| `NCT06323460` | Recruiting | ctDNA-guided de-intensified radiotherapy, but listed conditions appear stage I-II, so it may not fit if Stage III is confirmed. |
-| `NCT03765918` | Active not recruiting | KEYNOTE-689 evidence base for FDA-approved perioperative pembrolizumab; not a trial-access route now. |
-| `NCT03952585` | Active not recruiting | NRG-HN005 de-intensification caution; not a current access route. |
+| `NCT06223568` | Recruiting | Newly diagnosed, surgically resectable Stage I-II HPV-positive OPSCC; planned cancer-removal surgery and an accessible pretreatment biopsy site are required. Public criteria do not resolve eligibility after diagnostic tonsillectomy. Direct NIH review is required. |
+| `NCT04900623` | Recruiting | ctHPV-DNA risk-adapted therapy using AJCC v8 eligibility language. This is de-intensification research and requires exact eligibility review. |
+| `NCT06323460` | Recruiting | ctDNA-guided de-intensified chemoradiation for listed AJCC v8 Stage I-II HPV-mediated OPSCC; potentially relevant only if exact criteria fit and the risk tradeoff is accepted. |
+| `NCT03765918` | Active, not recruiting | KEYNOTE-689 evidence base for FDA-approved perioperative pembrolizumab; not a current trial-access route. |
+| `NCT03952585` | Active, not recruiting | NRG-HN005 evidence and caution; not a current trial-access route. |
 
 ## High-Yield Questions
 
-1. Is this still curative intent?
-2. Is treatment expected to be surgery-based or definitive chemoradiation?
-3. Am I cisplatin eligible?
-4. Should PD-L1 CPS be ordered now?
-5. Should high-risk HPV DNA/RNA and genotype be ordered now?
-6. Should HPV ctDNA / TTMV-HPV DNA be drawn before treatment starts?
-7. Are `NCT06223568` or `NCT04900623` worth screening before treatment begins?
-8. If no trial applies, should standard curative treatment proceed without delay?
+1. Is the treatment plan still curative intent?
+2. Is the remaining-disease plan surgery-based or definitive chemoradiation?
+3. Is cisplatin indicated and medically appropriate?
+4. Should PD-L1 CPS and high-risk HPV RNA/DNA/genotype be ordered?
+5. Should HPV ctDNA be drawn now, accurately labeled as post-tonsillectomy and pre-definitive nodal treatment?
+6. Does `NCT06223568` remain technically screenable after the diagnostic procedure?
+7. If no trial clearly improves the risk-benefit balance, should standard curative treatment proceed without delay?
 
+## Sources
+
+- AJCC Version 9 effective dates: https://www.facs.org/quality-programs/cancer-programs/american-joint-committee-on-cancer/version-9/
+- CAP HPV-associated oropharynx resection protocol: https://documents.cap.org/protocols/HN.HPV-Assoc_Oropharynx.RES_1.0.0.0.REL_CAPCP.pdf
+- ClinicalTrials.gov `NCT06223568`: https://clinicaltrials.gov/study/NCT06223568
+- ClinicalTrials.gov `NCT04900623`: https://clinicaltrials.gov/study/NCT04900623
+- ClinicalTrials.gov `NCT06323460`: https://clinicaltrials.gov/study/NCT06323460
+- ClinicalTrials.gov `NCT03765918`: https://clinicaltrials.gov/study/NCT03765918
+- ClinicalTrials.gov `NCT03952585`: https://clinicaltrials.gov/study/NCT03952585
